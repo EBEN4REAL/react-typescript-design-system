@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* your design tokens ⬇︎ */
+@theme {
+    --color-primary: #1976d2;
+
+    /* ⸺ optional extras ⸺                 
+    Tailwind will create bg-primary-50, text-primary-100, etc.           */
+    --color-primary-50: oklch(0.97 0.02 264);
+    --color-primary-100: oklch(0.93 0.04 264);
+    --color-primary-200: oklch(0.87 0.07 264);
+
+    /* breakpoint you were setting earlier */
+    --breakpoint-3xl: 120rem;
+}
