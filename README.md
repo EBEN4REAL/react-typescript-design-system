@@ -1,4 +1,4 @@
-# FE-D30-PLATFORM
+# REACT TYPESCRIPT DESIGN SYSTEM
 
 Welcome to the **React + TypeScript + Tailwind CSS + Redux Toolkit + React Query + Material UI** starter project. This README provides step-by-step instructions for setting up, running, and contributing to this codebase.
 
